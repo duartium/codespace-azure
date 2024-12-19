@@ -1,0 +1,15 @@
+/workspaces/codespace-azure/src/az204-graph/obj/Debug/net8.0/az204-graph.GeneratedMSBuildEditorConfig.editorconfig
+/workspaces/codespace-azure/src/az204-graph/obj/Debug/net8.0/az204-graph.AssemblyInfoInputs.cache
+/workspaces/codespace-azure/src/az204-graph/obj/Debug/net8.0/az204-graph.AssemblyInfo.cs
+/workspaces/codespace-azure/src/az204-graph/obj/Debug/net8.0/az204-graph.csproj.CoreCompileInputs.cache
+/workspaces/codespace-azure/src/az204-graph/obj/Debug/net8.0/az204-graph.sourcelink.json
+/workspaces/codespace-azure/src/az204-graph/bin/Debug/net8.0/az204-graph
+/workspaces/codespace-azure/src/az204-graph/bin/Debug/net8.0/az204-graph.deps.json
+/workspaces/codespace-azure/src/az204-graph/bin/Debug/net8.0/az204-graph.runtimeconfig.json
+/workspaces/codespace-azure/src/az204-graph/bin/Debug/net8.0/az204-graph.dll
+/workspaces/codespace-azure/src/az204-graph/bin/Debug/net8.0/az204-graph.pdb
+/workspaces/codespace-azure/src/az204-graph/obj/Debug/net8.0/az204-graph.dll
+/workspaces/codespace-azure/src/az204-graph/obj/Debug/net8.0/refint/az204-graph.dll
+/workspaces/codespace-azure/src/az204-graph/obj/Debug/net8.0/az204-graph.pdb
+/workspaces/codespace-azure/src/az204-graph/obj/Debug/net8.0/az204-graph.genruntimeconfig.cache
+/workspaces/codespace-azure/src/az204-graph/obj/Debug/net8.0/ref/az204-graph.dll
