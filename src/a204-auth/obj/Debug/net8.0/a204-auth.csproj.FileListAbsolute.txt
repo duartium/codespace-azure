@@ -1,0 +1,6 @@
+/workspaces/codespace-azure/src/a204-auth/obj/Debug/net8.0/a204-auth.csproj.AssemblyReference.cache
+/workspaces/codespace-azure/src/a204-auth/obj/Debug/net8.0/a204-auth.GeneratedMSBuildEditorConfig.editorconfig
+/workspaces/codespace-azure/src/a204-auth/obj/Debug/net8.0/a204-auth.AssemblyInfoInputs.cache
+/workspaces/codespace-azure/src/a204-auth/obj/Debug/net8.0/a204-auth.AssemblyInfo.cs
+/workspaces/codespace-azure/src/a204-auth/obj/Debug/net8.0/a204-auth.csproj.CoreCompileInputs.cache
+/workspaces/codespace-azure/src/a204-auth/obj/Debug/net8.0/a204-auth.sourcelink.json

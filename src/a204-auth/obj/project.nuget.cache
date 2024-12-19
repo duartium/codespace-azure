@@ -1,0 +1,13 @@
+{
+  "version": 2,
+  "dgSpecHash": "x74+NGcU5o4=",
+  "success": true,
+  "projectFilePath": "/workspaces/codespace-azure/src/a204-auth/a204-auth.csproj",
+  "expectedPackageFiles": [
+    "/home/codespace/.nuget/packages/microsoft.identity.client/4.66.2/microsoft.identity.client.4.66.2.nupkg.sha512",
+    "/home/codespace/.nuget/packages/microsoft.identitymodel.abstractions/6.35.0/microsoft.identitymodel.abstractions.6.35.0.nupkg.sha512",
+    "/home/codespace/.nuget/packages/system.diagnostics.diagnosticsource/6.0.1/system.diagnostics.diagnosticsource.6.0.1.nupkg.sha512",
+    "/home/codespace/.nuget/packages/system.runtime.compilerservices.unsafe/6.0.0/system.runtime.compilerservices.unsafe.6.0.0.nupkg.sha512"
+  ],
+  "logs": []
+}
